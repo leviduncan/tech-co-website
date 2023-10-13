@@ -4,10 +4,10 @@ import Hero from './components/Hero';
 
 function App() {
   return (
-    <>
+    <section className="container-fluid">
       <Header />
       <Hero />
-    </>
+    </section>
   );
 }
 
