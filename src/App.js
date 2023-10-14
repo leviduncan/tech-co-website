@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 
 function App() {
   return (
-    <section className="container-fluid">
+    <section className="container ">
       <Header />
       <Hero />
     </section>
